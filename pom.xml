@@ -11,7 +11,7 @@
 	<groupId>com.marcos</groupId>
 	<artifactId>sistemaCurso</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SistemaCurso</name>
+	<name>sistemaCurso</name>
 	<description>aplicacao sistema de cursos</description>
 	<properties>
 		<java.version>11</java.version>
