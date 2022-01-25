@@ -25,4 +25,4 @@
 
 + Aplicação de Cusos para alunos
 
-![Diagrama Conceitual](https://github.com/Mpaulohd/SistemaCurso/blob/desafio_01/Diagrama%20Conceitual%20Sistema%20Cursos.png)
+![Diagrama Conceitual](https://github.com/Mpaulohd/Sistema-Curso/blob/develop/Diagrama%20Conceitual.png)
