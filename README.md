@@ -17,7 +17,7 @@
 
 * JAVA 13
 * Spring Boot 2.6.2
-* Eclipse IDE 2021.3.1
+* IntelliJ IDEA
 * Git.
 
 
