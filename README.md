@@ -23,6 +23,6 @@
 
 ## Função.
 
-+ Aplicação de Cusos para alunos
++ Aplicação de Cursos para alunos
 
 ![Diagrama Conceitual](https://github.com/Mpaulohd/Sistema-Curso/blob/develop/Diagrama%20Conceitual.png)
